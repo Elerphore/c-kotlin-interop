@@ -1,0 +1,3 @@
+headers = C:\\projects\\alt_V\\c-kotlin-interop\\src\\nativeInterop\\cinterop\\main\\main.h
+compilerOpts = C:/projects/alt_V/c-kotlin-interop/src/nativeInterop/cinterop/main/main.a
+linkerOpts = C:/projects/alt_V/c-kotlin-interop/src/nativeInterop/cinterop/main/main.a
